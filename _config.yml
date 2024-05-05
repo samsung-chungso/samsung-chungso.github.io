@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "fresh"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Donghee Kim"
+name                     : "DongheeKim"
 description              : "컴퓨터 비전을 공부하고 정리하는 블로그입니다."
 url                      : "https://samsung-chungso.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

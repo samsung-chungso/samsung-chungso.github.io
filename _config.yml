@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "DongheeKim"
-  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**컴퓨터 비전**을 공부하고 있습니다."
   location         : "Seoul / South Korea"
   email            :

@@ -7,6 +7,12 @@ layout: default
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
+<!--
+  수식 표현을 위한 mathjax_support.html 추가
+-->
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
 
 {% assign breadcrumbs_enabled = site.breadcrumbs %}
 {% if page.breadcrumbs != null %}
